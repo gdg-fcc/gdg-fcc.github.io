@@ -1,2 +1,2 @@
 # gdg-fcc.github.io
-Website for GDG FCC. Winning. 
+Website for GDG FCC using Bootstrap. Winning.
